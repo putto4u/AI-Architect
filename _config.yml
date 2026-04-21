@@ -1,7 +1,7 @@
 # _config.yml
 title: AI-Architect Curriculum
 description: Cloud Security & Infrastructure Architecture Guide 
-remote_theme: architect
+remote_theme: minima
 markdown: kramdown
 baseurl: "/AI-Architect"
 url: "https://putto4u.github.io"
