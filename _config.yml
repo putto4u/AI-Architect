@@ -2,5 +2,6 @@
 title: AI-Architect Curriculum
 description: Cloud Security & Infrastructure Architecture Guide 
 remote_theme: architect
+markdown: kramdown
 baseurl: "/AI-Architect"
 url: "https://putto4u.github.io"
